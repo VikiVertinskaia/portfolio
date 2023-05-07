@@ -1,1 +1,5 @@
-# portfolio
+# Portfolio
+
+-HTML
+-JavaScript
+-CSS3
